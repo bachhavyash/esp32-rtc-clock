@@ -104,6 +104,5 @@ Time: 09:41:01 | Temp: 29.5 C
 ## Author
 
 **Yash Bachhav**
-
 Electronics & Telecommunication Engineering
 Embedded Systems | IoT | Hardware Design
